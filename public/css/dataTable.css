@@ -1,0 +1,42 @@
+table,
+th,
+td {
+    border: 1px solid;
+    color: blue;
+
+}
+
+table {
+    width: 50%;
+    margin: auto;
+    border-color: green;
+
+}
+
+th {
+    height: 50px;
+    font-weight: bold;
+    color: black;
+}
+
+td {
+    text-align: left;
+}
+
+tr:hover {
+    background-color: coral;
+}
+
+h1 {
+    text-align: center;
+    color: #003300;
+
+
+
+}
+
+h1:hover {
+    background-color: skyblue;
+    font-weight: bold;
+
+}
